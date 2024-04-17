@@ -1,0 +1,6 @@
+yfinance
+seaborn
+Historic-crypto
+pystan -q
+prophet -q
+pyfolio-reloaded==0.9.5
