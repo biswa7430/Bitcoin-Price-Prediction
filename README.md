@@ -44,6 +44,6 @@ pip install -r requirements.txt
 
 # Authors:
 ```bash
-Author: Hirakjyoti Medhi
-Email: hirak170802@gmail.com
+Author: Biswajit Bera
+Email: biswabera75@gmail.com
 ```
